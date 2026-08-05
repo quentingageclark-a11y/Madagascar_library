@@ -1,10 +1,10 @@
 ---
 title: "Image Attributions"
 order: 1
-chapter: 5
+chapter: 2
 section: 1
 layout: "md.jlmd"
-tags: ["module5", "track_material", "markdown", "frontmatter"]
+tags: ["attribution"]
 ---
 
 # Sources Used in Website:

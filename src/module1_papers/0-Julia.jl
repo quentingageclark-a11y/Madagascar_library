@@ -2,12 +2,12 @@
 # v0.20.21
 
 #> [frontmatter]
-#> chapter = 4
+#> chapter = 1
 #> section = 1
-#> order = 2
+#> order = 1
 #> image = "https://github.com/quentingageclark-a11y/research_3/blob/main/src/assets/imagesandgifs/julia00im.png?raw=true"
 #> title = "Who is Julia?"
-#> tags = ["module4", "track_julia", "track_material", "Pluto", "PlutoUI"]
+#> tags = ["module1", "track_julia", "Pluto", "PlutoUI"]
 #> layout = "layout.jlhtml"
 
 using Markdown
