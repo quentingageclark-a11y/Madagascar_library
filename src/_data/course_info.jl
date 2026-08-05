@@ -1,7 +1,6 @@
 Dict(
-    "course_name" => "Computational Data Analysis",
-    "course_subtitle" => "This course discusses the tools needed for
-taking the first steps in the data analysis journey.",
+    "course_name" => "Madagascar Library Archive",
+    "course_subtitle" => "This is a site to host the madagascar papers imported into Julia! It is fully customizable, get in contact if you think a feature should be changed for better access.",
     "code" => "code of your course",
     "semester" => "Fall 2026",
     "authors" => [
